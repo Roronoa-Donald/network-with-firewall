@@ -223,7 +223,7 @@ Le couple scan nmap et alerte Snort en est l'illustration parfaite : sans ce tes
 
 BOUMBIEGOU-LARDJA Tiyab Donald
 Administration Systemes et Reseaux - 2e annee
-College de Paris Superieur
+
 
 Lome, Togo - Juillet 2026
 
